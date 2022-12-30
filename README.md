@@ -6,7 +6,7 @@
 <d1>
 <dt>WORK EXPERIENCE </dt>
 Amazon Associate Digital Marketing 2020-2021 
-<dd>Analyzed and marketed products, resulting in increased sales by 15%. As a technical writer, Successfully increased website traffic by 25% by optimizing SEO and content strategy.</dd>
+<dd>Analyzed and marketed products, resulting in increased sales by 15%. As a technical writer, Successfully increased website traffic by 25% by optimizing SEO and content strategy.Increasing website traffic, One possible accomplishment in digital marketing is increasing the number of visitors to a website. This can be achieved through a variety of tactics, such as search engine optimization, social media marketing, and content marketing. </dd>
 <dt>Key Accomplishments</dt>
 <ul>
 <li> Managed blog content and calendar, ensuring all deadlines were met while maintaining a consistent voice across all platforms.</li>
