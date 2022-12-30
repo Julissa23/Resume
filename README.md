@@ -1,6 +1,6 @@
 <h3 id="custom-id"> Julissa Guzman Jauregui Resume</h3>
- 
-<dd>Hayward, Ca. | [LinkedIn](https://www.linkedin.com/in/julissa-guzman-jauregui) | [GitHub](https://github.com/Julissa23) |510-331-8413| Julissag23.jg@gmail.com </dd>
+ <!doctype html>
+<dd>Hayward, Ca. <p><a href="https://"www.linkedin.com/in/julissa-guzman-jauregui hreflang="LinkedIn" type="text/html"> Linkedin </a></p><p><a href="https://"www.github.com/Julissa23 hreflang="Github"type="text/html"> Github </a></p> |510-331-8413| Julissag23.jg@gmail.com </dd>
 <hr/>
 <p style="text-align: center;">Product Manager</p>
 <d1>
