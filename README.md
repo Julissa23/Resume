@@ -1,3 +1,7 @@
+<body style="background-color: blue;">
+  
+
+
 <h3 id="custom-id"> Julissa Guzman Jauregui Resume</h3>
  <!doctype html>
 <dd>Hayward, Ca. <p><a href="https://"https://www.linkedin.com/in/julissa-guzman-jauregui?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnzLcfUWeQqWFBgVaAJn2%2Fw%3D%3D hreflang="LinkedIn" type="text/html"> Linkedin </a></p><p><a href="https://"www.github.com/Julissa23 hreflang="Github"type="text/html"> Github </a></p> |510-331-8413| Julissag23.jg@gmail.com </dd>
@@ -70,3 +74,4 @@ Key Accomplishments:
 <li>Learned key analytical skills such as data cleaning, analysis, and visualization using spreadsheets, SQL programming, and R programming.</li>
 <li>Created a portfolio website showcasing my work across different functions.</li>
 </ul>
+</body>
